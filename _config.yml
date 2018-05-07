@@ -25,16 +25,18 @@ github_username:  bartham
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jekyll-menus
 
-defaults:
-  - 
-    scope:
-      path: "assets/img"
-    values:
-      image: true
+#defaults:
+#  - 
+#    scope:
+#      path: "assets/img"
+#    values:
+#      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

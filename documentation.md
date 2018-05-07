@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-navigation_weight: 1
+title: Documentation
+navigation_weight: 2
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

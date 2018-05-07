@@ -3,19 +3,133 @@
 
 @import "{{ site.theme }}";
 
-/*.page-header {
-  background-size: cover;
-  background-position: center;
-  background-image: url(/assets/img/1280/H3.jpg);
-}*/
+::-moz-selection {
+  color: #e27308;
+}
 
+::selection {
+  color: #e27308;
+}
+
+p {
+  font-size: 100%;
+}
+
+code {
+  font-size: 85%;
+  background: #f8f8f8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #95b2ca;
+}
+
+
+#project_title {
+  /*padding-top: 150px;*/
+  font-size: 60px;
+  opacity: 0.0;
+}
+
+#project_tagline {
+  font-size: 30px;
+  opacity: 0.0;
+}
+
+.inner {
+  max-width: 1024px;
+}
+
+#header_wrap {
+  background: #ffffff;
+}
+
+#header_wrap  .inner {
+  height: 60px;
+  background: #ffffff;
+  background-image: url("../img/1280/H1.jpg");
+  opacity: 1.0;
+  background-size: cover;
+  background-position: left top;
+  background-repeat: no-repeat;
+}
+
+#main_content_wrap {
+  background: #ffffff;
+  border-top: none;
+  border-bottom: none;
+}
+
+#main_content_wrap .inner {
+  background: #f2f2f2;
+  border-top: 2px solid #111;
+  border-bottom: 2px solid #111;
+}
+
+#menu_wrap {
+  background: #ffffff;
+  border-top: none;
+  border-bottom: none;
+}
+
+#menu_wrap .inner {
+  background: #333;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#footer_wrap {
+  background: #ffffff;
+}
+
+#footer_wrap .inner {
+  background: #333;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    /*border-right: 1px solid #29b7fd;*/
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #e68a3b;
+}
+
+.active {
+    background-color: #e68a3b;
+}
+
+/*
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  /*background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);*/
-  background-position: center;
-  background-image: url(/assets/img/1280/H3.jpg);
+  background-color: #FFFFFF;
+  background-position: left;
+  background-image: url(../img/1280/H3.jpg);
+  background-repeat: no-repeat;
+  max-width: 64rem;
+  margin: 0 auto;
 
   @include large {
     padding: 5rem 6rem;
@@ -29,3 +143,4 @@
     padding: 2rem 1rem;
   }
 }
+*/
