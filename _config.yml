@@ -17,17 +17,26 @@ title: VIRTCRIME
 email: mihai.bartha@ait.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
   AIT Virtcrime Project
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/virtcrime" # the subpath of your site, e.g. /blog
+url: "http://bartham.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  bartham
 
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jekyll-menus
+
+#defaults:
+#  - 
+#    scope:
+#      path: "assets/img"
+#    values:
+#      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
