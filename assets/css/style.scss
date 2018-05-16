@@ -24,6 +24,16 @@ h1, h2, h3, h4, h5, h6 {
   color: #95b2ca;
 }
 
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+article {
+  flex: 1;
+}
 
 #project_title {
   /*padding-top: 150px;*/
