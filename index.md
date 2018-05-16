@@ -15,35 +15,22 @@ The project will not only address the needs of stakeholders that are part of the
 
 ## Project Lead / Contact
 
-Austrian Institute of Technology GmbH
-
-Center of Digital Safety and Security
-
-Donau-City-Strasse 1
-
-A-1020 Vienna
-
-Austria
-
-http://www.ait.ac.at
-
-Dr. Bernhard Haslhofer
-
-Email: [Link to another page]bernhard.haslhofer@ait.ac.at
-
-Telefon: +43-664-88390692
+Austrian Institute of Technology GmbH \
+Center of Digital Safety and Security \
+Donau-City-Strasse 1 \
+A-1020 Vienna \
+Austria \
+http://www.ait.ac.at \
+Dr. Bernhard Haslhofer \
+Email: bernhard.haslhofer@ait.ac.at \
+Telefon: +43-664-88390692 \
 
 ## Project Partners
 
-University of Innsbruck
-
-Xylem - Science and Technology Management GmbH
-
-Research Institute GmbH
-
-VICESSE - Vienna Centre for Societal Security
-
-Federal Ministry of the Interior, Dept. II/BK/7
-
-Federal Ministry of Finance, Dept. I/9
+University of Innsbruck \
+Xylem - Science and Technology Management GmbH \
+Research Institute GmbH \
+VICESSE - Vienna Centre for Societal Security \
+Federal Ministry of the Interior, Dept. II/BK/7 \
+Federal Ministry of Finance, Dept. I/9 \
 
