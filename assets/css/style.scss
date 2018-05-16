@@ -70,6 +70,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #ffffff;
   border-top: none;
   border-bottom: none;
+  min-height: 100%;
 }
 
 #menu_wrap .inner {
@@ -79,6 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer_wrap {
+  height: 100px;
   background: #ffffff;
 }
 
