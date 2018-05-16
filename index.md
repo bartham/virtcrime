@@ -15,11 +15,11 @@ The project will not only address the needs of stakeholders that are part of the
 
 ## Project Lead / Contact
 
-Austrian Institute of Technology GmbH \
-Center of Digital Safety and Security \
-Donau-City-Strasse 1 \
-A-1020 Vienna \
-Austria \
+Austrian Institute of Technology GmbH\
+Center of Digital Safety and Security\
+Donau-City-Strasse 1\
+A-1020 Vienna\
+Austria\
 http://www.ait.ac.at \
 Dr. Bernhard Haslhofer \
 Email: bernhard.haslhofer@ait.ac.at \
