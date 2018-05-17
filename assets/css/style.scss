@@ -24,6 +24,17 @@ h1, h2, h3, h4, h5, h6 {
   color: #95b2ca;
 }
 
+body, html {
+  background: #ffffff;
+}
+/*
+footer {
+  bottom: 0;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}*/
 
 #project_title {
   /*padding-top: 150px;*/
@@ -62,8 +73,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #main_content_wrap .inner {
   background: #f2f2f2;
-  border-top: 2px solid #111;
-  border-bottom: 2px solid #111;
+  border-top: none;
+  border-bottom: none;
+  min-height: 100%;
 }
 
 #menu_wrap {
@@ -113,11 +125,11 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #e68a3b;
+    background-color: #e96831;
 }
 
 .active {
-    background-color: #e68a3b;
+    background-color: #e96831;
 }
 
 /*
