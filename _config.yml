@@ -16,7 +16,7 @@
 title: VIRTCRIME
 email: bernhard.haslhofer@ait.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
-  Virtcrime Project
+  Virtcrime Project Website
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://virtcrime-project.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
