@@ -8,8 +8,8 @@ navigation_weight: 3
 
 Austrian Institute of Technology GmbH  
 Center of Digital Safety and Security  
-Donau-City-Strasse 1  
-A-1020 Vienna  
+Giefinggasse 4  
+A-1210 Vienna  
 Austria  
 
 [Dr. Bernhard Haslhofer](http://bernhardhaslhofer.info)
