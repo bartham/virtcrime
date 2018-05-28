@@ -12,7 +12,7 @@ navigation_weight: 2
 
 [Xylem - Science and Technology Management GmbH](https://www.xylem-technologies.com/)
 
-[Research Institute GmbH](https://www.researchinstitute.at/about.html)
+[Research Institute AG & Co KG](https://www.researchinstitute.at/about.html)
 
 [VICESSE - Vienna Centre for Societal Security](https://www.vicesse.eu/)
 
