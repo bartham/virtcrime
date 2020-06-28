@@ -3,9 +3,13 @@ layout: default
 title: HOME
 navigation_weight: 1
 ---
+
 # VIRTCRIME
 
 ### Forensic Methods and Solutions for the Analysis of Criminal Transactions in Post-Bitcoin Cryptocurrencies.
+
+<img style="float: right;" src="./assets/img/cryptos.jpg" alt="cryptos" width="300"/>
+
 
 **Context and Challenges**
 
@@ -18,3 +22,4 @@ The main goal of the VIRTCRIME project lies in the development of novel algorith
 The project will not only address the needs of stakeholders that are part of the consortium, but will also, in regular intervals, reach out to other private (banks, FinTechs) and public stakeholders to validate project results based on their requirements. 
 
 Furthermore, VIRTCRIME will organize trainings for staff members of these institutions.
+
