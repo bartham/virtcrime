@@ -20,7 +20,9 @@ Within the VIRTCRIME project, the following results were achieved:
 
 [GraphSense r.0.4](https://graphsense.info/news.html)
 
-[Darknet Crawling Platform](https://www.xylem-technologies.com/en/research-development/)
+[Darknet Crawling Platform](https://virtcrime.xylem-technologies.com/)
+
+Evaluation of Usability und User Experience
 
 **Events**
 
