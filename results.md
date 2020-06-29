@@ -22,7 +22,7 @@ Within the VIRTCRIME project, the following results were achieved:
 
 [Darknet Crawling Platform](https://virtcrime.xylem-technologies.com/)
 
-Evaluation of Usability und User Experience
+Evaluation of Usability and User Experience
 
 **Events**
 
