@@ -13,12 +13,12 @@ Hospes, J., Hötzendorfer, W., Tschohl, C., Kastelitz, M.:
 ["Kryptowährungen im Finanzmarktrecht und grundrechtliche Grenzen von Verboten"](https://jusletter-it.weblaw.ch/issues/2020/IRIS.html),
 In: Schweighofer, E., Kummer, F., Saarenpää, A., Hötzendorfer, W. (Hrsg.): "Verantwortungsbewusste Digitalisierung", Tagungsband des 23. Internationalen Rechtsinformatik Symposions 2020, Editions Weblaw, Bern, 2020, 569 – 576, LexisNexis Best Paper Award Top-10-Paper des IRIS 2020
 
+Stütz, R., Gaži, P., Haslhofer, B., Illum, J.: ["Stake shift in major cryptocurrencies: An empirical study"](https://fc20.ifca.ai/preproceedings/195.pdf),
+Financial Cryptography and Data Security 2020
+
 Mariem, S., Casas, P., Romiti, M., Donnet, B., Stütz, R., Haslhofer, B.: 
 ["All that glitters is not bitcoin – unveiling the centralized nature of the BTC (IP) network"](https://arxiv.org/abs/2001.09105), 
 IEEE/IFIP Network Operations and Management Symposium 2020
-
-Stütz, R., Gaži, P., Haslhofer, B., Illum, J.: ["Stake shift in major cryptocurrencies: An empirical study"](https://fc20.ifca.ai/preproceedings/195.pdf),
-Financial Cryptography and Data Security 2020
 
 Kalodner, H., Möser, M., Lee, K., Goldfeder, S., Plattner, M., Chator, A., Narayanan, A.,: 
 ["BlockSci: Design and applications of a blockchain analysis platform"](https://www.usenix.org/conference/usenixsecurity20/presentation/kalodner), 
