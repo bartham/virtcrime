@@ -9,24 +9,23 @@ Within the VIRTCRIME project, the following results were achieved:
 
 **Publications**
 
-Plattner, M.,  et al.: 
-["BlockSci: Design and applications of a blockchain analysis platform"](https://www.usenix.org/conference/usenixsecurity20/presentation/kalodner), 
-USENIX Security 2020
-
 Hospes, J., Hötzendorfer, W., Tschohl, C., Kastelitz, M.: 
 ["Kryptowährungen im Finanzmarktrecht und grundrechtliche Grenzen von Verboten"](https://jusletter-it.weblaw.ch/issues/2020/IRIS.html),
 In: Schweighofer, E., Kummer, F., Saarenpää, A., Hötzendorfer, W. (Hrsg.): "Verantwortungsbewusste Digitalisierung", Tagungsband des 23. Internationalen Rechtsinformatik Symposions 2020, Editions Weblaw, Bern, 2020, 569 – 576, LexisNexis Best Paper Award Top-10-Paper des IRIS 2020
 
 Mariem, S., Casas, P., Romiti, M., Donnet, B., Stütz, R., Haslhofer, B.: 
 ["All that glitters is not bitcoin – unveiling the centralized nature of the BTC (IP) network"](https://arxiv.org/abs/2001.09105), 
-IEEE/IFIP network operations and management Symposium 2020
+IEEE/IFIP Network Operations and Management Symposium 2020
 
 Stütz, R., Gaži, P., Haslhofer, B., Illum, J.: ["Stake shift in major cryptocurrencies: An empirical study"](https://fc20.ifca.ai/preproceedings/195.pdf),
-Financial cryptography and data security 2020
+Financial Cryptography and Data Security 2020
+
+Kalodner, H., Möser, M., Lee, K., Goldfeder, S., Plattner, M., Chator, A., Narayanan, A.,: 
+["BlockSci: Design and applications of a blockchain analysis platform"](https://www.usenix.org/conference/usenixsecurity20/presentation/kalodner), 
+USENIX Security 2020
 
 Hinteregger, A., Haslhofer, B.: [“An Empirical Analysis of Monero Cross-Chain Traceability”](http://fc19.ifca.ai/preproceedings/27-preproceedings.pdf), 
 Financial Cryptography and Data Security 2019
-
 
 Fröwis, M., Gottschalk, T., Haslhofer, B., Rückert, C., Pesch, P.: 
 [“Safeguarding the Evidential Value of Forensic Cryptocurrency Investigations”](https://arxiv.org/abs/1906.12221),
@@ -38,15 +37,15 @@ IRIS Symposium 2019
 
 Paquet-Clouston, M., Romiti, M., Haslhofer, B., Charvat, T.:
 ["Spams meet cryptocurrencies: Sextortion in the bitcoin ecosystem"](https://dl.acm.org/doi/10.1145/3318041.3355466), 
-ACM conference on advances in financial technologies 2019
+ACM Conference on Advances in Financial Technologies 2019
 
 Romiti, M., Judmayer, A., Zamyatin, A., Haslhofer, B.: 
 ["A deep dive into bitcoin mining pools: An empirical analysis of mining shares"](https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_30.pdf), 
-18th annual workshop on the economics of information security 2019
+18th annual Workshop on the Economics of Information Security 2019
 
 Anderson, R., Barton, C., Böhme, R., et al.: 
 ["Measuring the Changing Cost of Cybercrime"](https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_25.pdf), 
-18th annual workshop on the economics of information security 2019
+18th annual Workshop on the Economics of Information Security 2019
 
 Paquet-Clouston, M., Haslhofer, B., Dupont, B.: 
 ["Ransomware payments in the bitcoin ecosystem"](https://academic.oup.com/cybersecurity/article/5/1/tyz003/5488907),
@@ -87,7 +86,7 @@ Cambridge Security Seminar, May 2020, Cambridge, UK
 
 Haslhofer, B., Hötzendorfer, W.: 
 "Cryptocurrency Forensics and its relevance for tax compliance and enforcement", 
-Austrian Tax compliance and enforcement conference, November 2019, Vienna, Austria
+Austrian Tax Compliance and Enforcement Conference, November 2019, Vienna, Austria
 
 Haslhofer, B.: 
 ["Token systems, payment channels, and corporate currencies, Austrian Financial Market Authority (FMA)"](https://www.slideshare.net/bhaslhofer/token-systems-payment-channels-and-corporate-currencies), 
@@ -95,11 +94,11 @@ November 2019, Vienna, Austria.
 
 Haslhofer, B.: 
 "Roundtable: Digitization of Money and Finance: Challenges and Opportunities", 
-Workshop on Digital currencies, central banks and the blockchain: policy implications, Oesterreichische Nationalbank, October 2019, Vienna, Austria.
+Workshop on Digital Currencies, Central Banks and the Blockchain: Policy Implications, Oesterreichische Nationalbank, October 2019, Vienna, Austria.
 
 Haslhofer, B.: 
 "Can a blockchain solve the trust problem?", 
-Next generation Internet (NGI) talks, OCG, March 2019, Vienna, Austria.
+Next Generation Internet (NGI) talks, OCG, March 2019, Vienna, Austria.
 
 Hötzendorfer, W., Hospes, J., Tschohl C., Kastelitz M.: 
 "Cybercrime, regulation and privacy coins",
