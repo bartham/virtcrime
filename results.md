@@ -90,15 +90,15 @@ Austrian Tax Compliance and Enforcement Conference, November 2019, Vienna, Austr
 
 Haslhofer, B.: 
 ["Token systems, payment channels, and corporate currencies, Austrian Financial Market Authority (FMA)"](https://www.slideshare.net/bhaslhofer/token-systems-payment-channels-and-corporate-currencies), 
-November 2019, Vienna, Austria.
+November 2019, Vienna, Austria
 
 Haslhofer, B.: 
 "Roundtable: Digitization of Money and Finance: Challenges and Opportunities", 
-Workshop on Digital Currencies, Central Banks and the Blockchain: Policy Implications, Oesterreichische Nationalbank, October 2019, Vienna, Austria.
+Workshop on Digital Currencies, Central Banks and the Blockchain: Policy Implications, Oesterreichische Nationalbank, October 2019, Vienna, Austria
 
 Haslhofer, B.: 
 "Can a blockchain solve the trust problem?", 
-Next Generation Internet (NGI) talks, OCG, March 2019, Vienna, Austria.
+Next Generation Internet (NGI) talks, OCG, March 2019, Vienna, Austria
 
 Hötzendorfer, W., Hospes, J., Tschohl C., Kastelitz M.: 
 "Cybercrime, regulation and privacy coins",
